@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=250&color=000000&width=435&lines=Hi+I'm+Islam-Magdy;I+Love+To+Code;Always+I+Learn+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=250&color=ffc60a&width=435&lines=Hi+I'm+Islam-Magdy;I+Love+To+Code;Always+I+Learn+New+Things" alt="Typing SVG" /></a>
 
 <!-- 
 Social icons section -->
